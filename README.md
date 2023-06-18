@@ -1,5 +1,12 @@
 # ZOOM: Zero-shot-model-diagnosis (CVPR 2023)
 
+-------
+**We are migrating the code under the humansensinglab org Here: https://github.com/humansensinglab/ZOOM** 
+
+All subsequent update will be added in that repository :)
+
+
+
 [paper](https://arxiv.org/abs/2303.15441) | [project website](http://zero-shot-model-diagnosis.github.io/)
 
 <p align="center">
